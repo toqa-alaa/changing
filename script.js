@@ -8,7 +8,7 @@ const row4 = document.getElementById('row4');
 const images = [
     './94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif', // صورة 1
     './bird-wings-flying.gif', // صورة 2
-    './animated-gif-wallpaper.gif' ,'./200w (1).gif','./200w.gif'
+    './animated-gif-wallpaper.gif' ,'./200w.gif'
 ];
 
 let currentImageIndex = 0;
