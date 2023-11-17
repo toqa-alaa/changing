@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .banner {
+    width: 800px;
+    height: 500px; /* يجب تحديد ارتفاع للسكشن ليتم عرض الصور */
+    padding: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(./200w.gif);
+    display: flex;
+  }
+  
+  .row {
+    padding: 10px;
+    border: 3px solid #ccc;
+    cursor: pointer;
+    flex: 1;
+    color: white;
+    font-weight: bold;
+
+  }
